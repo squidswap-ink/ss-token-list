@@ -1,0 +1,31 @@
+name: Update Token List
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-tokenlist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+          
+      - name: Install Dependencies
+        run: npm install
+          
+      - name: Update Token List
+        run: node update-tokenlist.js
+        
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add tokenlist.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update token list"
+          git push
