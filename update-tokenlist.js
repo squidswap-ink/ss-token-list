@@ -2,25 +2,36 @@ const fetch = require('node-fetch');
 const fs = require('fs');
 
 const SUBGRAPH_URL = 'https://api.goldsky.com/api/public/project_cm5z6t2jpmusf01z77ov4fb71/subgraphs/squidswap-v2/core/gn';
-const DEXSCREENER_URL = 'https://api.dexscreener.com/latest/dex/tokens/57073';
+const DEXSCREENER_URL = 'https://api.dexscreener.com/latest/dex/search?q=squidswap';
 
 async function fetchTokens() {
-  // First fetch from DexScreener to get logos
+  // First fetch all pairs from DexScreener
+  console.log('Fetching pairs from DexScreener...');
   const dexScreenerResponse = await fetch(DEXSCREENER_URL);
   const dexScreenerData = await dexScreenerResponse.json();
   
-  // Create a map of token address to logo
+  console.log('DexScreener response:', JSON.stringify(dexScreenerData, null, 2));
+  
+  // Create a map for token logos
   const tokenLogos = new Map();
-  dexScreenerData.pairs?.forEach(pair => {
-    if (pair.baseToken?.address && pair.baseToken?.logoURI) {
-      tokenLogos.set(pair.baseToken.address.toLowerCase(), pair.baseToken.logoURI);
-    }
-    if (pair.quoteToken?.address && pair.quoteToken?.logoURI) {
-      tokenLogos.set(pair.quoteToken.address.toLowerCase(), pair.quoteToken.logoURI);
-    }
-  });
+  
+  // Process pairs to extract token logos
+  if (dexScreenerData.pairs) {
+    console.log(`Found ${dexScreenerData.pairs.length} pairs on DexScreener`);
+    dexScreenerData.pairs.forEach(pair => {
+      if (pair.baseToken?.address && pair.info?.imageUrl) {
+        tokenLogos.set(pair.baseToken.address.toLowerCase(), pair.info.imageUrl);
+        console.log(`Found logo for ${pair.baseToken.symbol}: ${pair.info.imageUrl}`);
+      }
+      if (pair.quoteToken?.address && pair.info?.imageUrl) {
+        tokenLogos.set(pair.quoteToken.address.toLowerCase(), pair.info.imageUrl);
+        console.log(`Found logo for ${pair.quoteToken.symbol}: ${pair.info.imageUrl}`);
+      }
+    });
+  }
 
-  // Fetch tokens from subgraph
+  // Then get tokens from subgraph
+  console.log('\nFetching tokens from Subgraph...');
   const subgraphResponse = await fetch(SUBGRAPH_URL, {
     method: 'POST',
     headers: {
@@ -41,7 +52,8 @@ async function fetchTokens() {
   });
 
   const result = await subgraphResponse.json();
-  
+  const tokens = result.data.tokens;
+
   const tokenList = {
     name: 'SquidSwap Token List',
     timestamp: new Date().toISOString(),
@@ -50,14 +62,21 @@ async function fetchTokens() {
       minor: 0,
       patch: 0
     },
-    tokens: result.data.tokens.map(token => ({
-      chainId: 57073,
-      address: token.id,
-      name: token.name,
-      symbol: token.symbol,
-      decimals: parseInt(token.decimals),
-      logoURI: tokenLogos.get(token.id.toLowerCase()) || undefined
-    })),
+    tokens: tokens.map(token => {
+      const address = token.id.toLowerCase();
+      const logoURI = tokenLogos.get(address);
+      if (logoURI) {
+        console.log(`Adding logo for ${token.symbol}: ${logoURI}`);
+      }
+      return {
+        chainId: 57073,
+        address: token.id,
+        name: token.name,
+        symbol: token.symbol,
+        decimals: parseInt(token.decimals),
+        logoURI: logoURI || undefined
+      };
+    }),
     keywords: ['squidswap', 'default'],
     tags: {},
     logoURI: ''
@@ -65,7 +84,7 @@ async function fetchTokens() {
 
   // Log some stats
   const tokensWithLogos = tokenList.tokens.filter(t => t.logoURI).length;
-  console.log(`Updated token list with ${tokenList.tokens.length} tokens`);
+  console.log(`\nUpdated token list with ${tokenList.tokens.length} tokens`);
   console.log(`Found logos for ${tokensWithLogos} tokens`);
 
   fs.writeFileSync('tokenlist.json', JSON.stringify(tokenList, null, 2));
