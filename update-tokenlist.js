@@ -1,12 +1,12 @@
 const fetch = require('node-fetch');
 const fs = require('fs');
 
-if (!process.env.GOLDSKY_URL) {
-  console.error('Error: GOLDSKY_URL environment variable is not set');
+if (!process.env.SUBGRAPH_URL) {
+  console.error('Error: SUBGRAPH_URL environment variable is not set');
   process.exit(1);
 }
 
-const SUBGRAPH_URL = process.env.GOLDSKY_URL;
+const SUBGRAPH_URL = process.env.SUBGRAPH_URL;
 const DEXSCREENER_URL = 'https://api.dexscreener.com/latest/dex/search?q=squidswap';
 
 async function fetchTokens() {
