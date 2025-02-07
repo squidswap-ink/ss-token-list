@@ -107,6 +107,15 @@ async function fetchTokens() {
   const result = await subgraphResponse.json();
   const tokens = result.data.tokens;
 
+  // First, create a filtered list of tokens that have logos
+  const tokensWithLogos = tokens.filter(token => {
+    const address = token.id.toLowerCase();
+    return tokenLogos.has(address);
+  });
+
+  console.log(`\nTotal tokens from subgraph: ${tokens.length}`);
+  console.log(`Tokens with logos: ${tokensWithLogos.length}`);
+
   const tokenList = {
     name: 'SquidSwap Token List',
     timestamp: new Date().toISOString(),
@@ -115,32 +124,23 @@ async function fetchTokens() {
       minor: 0,
       patch: 0
     },
-    tokens: tokens
-      .map(token => {
-        const address = token.id.toLowerCase();
-        const logoURI = tokenLogos.get(address);
-        if (logoURI) {
-          console.log(`Adding token ${token.symbol} with logo: ${logoURI}`);
-          return {
-            chainId: 57073,
-            address: token.id,
-            name: token.name,
-            symbol: token.symbol,
-            decimals: parseInt(token.decimals),
-            logoURI
-          };
-        }
-        return null;
-      })
-      .filter(token => token !== null), // Only keep tokens that have logos
+    tokens: tokensWithLogos.map(token => {
+      const address = token.id.toLowerCase();
+      const logoURI = tokenLogos.get(address);
+      console.log(`Adding token ${token.symbol} with logo: ${logoURI}`);
+      return {
+        chainId: 57073,
+        address: token.id,
+        name: token.name,
+        symbol: token.symbol,
+        decimals: parseInt(token.decimals),
+        logoURI
+      };
+    }),
     keywords: ['squidswap', 'default'],
     tags: {},
     logoURI: ''
   };
-
-  // Log some stats
-  console.log(`\nTotal tokens from subgraph: ${tokens.length}`);
-  console.log(`Tokens with logos: ${tokenList.tokens.length}`);
 
   fs.writeFileSync('tokenlist.json', JSON.stringify(tokenList, null, 2));
 }
