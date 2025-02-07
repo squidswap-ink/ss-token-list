@@ -1,7 +1,12 @@
 const fetch = require('node-fetch');
 const fs = require('fs');
 
-const SUBGRAPH_URL = 'https://api.goldsky.com/api/public/project_cm5z6t2jpmusf01z77ov4fb71/subgraphs/squidswap-v2/core/gn';
+if (!process.env.GOLDSKY_URL) {
+  console.error('Error: GOLDSKY_URL environment variable is not set');
+  process.exit(1);
+}
+
+const SUBGRAPH_URL = process.env.GOLDSKY_URL;
 const DEXSCREENER_URL = 'https://api.dexscreener.com/latest/dex/search?q=squidswap';
 
 async function fetchTokens() {
