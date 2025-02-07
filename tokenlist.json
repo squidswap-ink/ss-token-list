@@ -1,33 +1,12 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-07T18:50:58.559Z",
+  "timestamp": "2025-02-07T19:18:03.746Z",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
   "tokens": [
-    {
-      "chainId": 57073,
-      "address": "0x008d26664f3db502cc7b0a7d9c2b9c4844ba4d1a",
-      "name": "gaaa",
-      "symbol": "gaaa",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
-      "name": "USD₮0",
-      "symbol": "USD₮0",
-      "decimals": 6
-    },
-    {
-      "chainId": 57073,
-      "address": "0x03c85b77cbde9612e7376a2a22cfeafdf5cd62fa",
-      "name": "SDS",
-      "symbol": "SD",
-      "decimals": 18
-    },
     {
       "chainId": 57073,
       "address": "0x09155471956d01493bb75ddd56d3beb661fab4a8",
@@ -38,67 +17,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0x09ba274779c676893b7bed35d327af2376de2527",
-      "name": "Inky",
-      "symbol": "INKY",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
       "address": "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111",
       "name": "Shroomy",
       "symbol": "SHROOMY",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111.png?key=e46a95"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x0d0bc3d6473f27f8e8b71de69ab9a8b6a574dfd9",
-      "name": "Ika",
-      "symbol": "IKA",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x0e0fdccba17088ca502a3701bf55c91387916603",
-      "name": "Squi",
-      "symbol": "SQUI",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x13329e511ef70f3b35c2cad8d63e1ec974e4ec4b",
-      "name": "Plankton",
-      "symbol": "PLANKTON",
-      "decimals": 8
-    },
-    {
-      "chainId": 57073,
-      "address": "0x145922e65ceaf0e4cf6e37e3a0e5bb57d9e1ff09",
-      "name": "Squidward",
-      "symbol": "SQWARD",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x19eb460d4155e204b054de78661f9aa556b50874",
-      "name": "Octopus",
-      "symbol": "OCTO",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x1df8fdeca4a45d3eba0cfc528fea32eec6c6ca70",
-      "name": "Squidtardio",
-      "symbol": "SQUIDTARDIO",
-      "decimals": 8
-    },
-    {
-      "chainId": 57073,
-      "address": "0x1f93ebd38f3b1fd4294c4c59d5f7d3519d36fb5f",
-      "name": "GYAT COIN",
-      "symbol": "GYAT",
-      "decimals": 18
     },
     {
       "chainId": 57073,
@@ -126,20 +49,6 @@
     },
     {
       "chainId": 57073,
-      "address": "0x25a9efba42ffdba6192e42a0cae211f0c1dbe270",
-      "name": "Hello World",
-      "symbol": "WORLD",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x2781f1e97f0b8d09c85dc484a1b626725aeb8965",
-      "name": "Make America Ink Again",
-      "symbol": "MAIA",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
       "address": "0x2a1bce657f919ac3f9ab50b2584cfc77563a02ec",
       "name": "Andru Kollor",
       "symbol": "AK47",
@@ -148,158 +57,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0x2b9ba2201251c94886fe3d7c0d90cba901faab83",
-      "name": "Jesse the frog",
-      "symbol": "JESSE",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x2e3b82891d1b2b90655597110cca9b6587607e0c",
-      "name": "Squidward",
-      "symbol": "SQUID",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x2fe11cfaf9fd7a05f63ae52fe1bac900d84411f2",
-      "name": "PEARL",
-      "symbol": "PEARL",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x3379b82e2c225788e876b415b4f27cbb66eec09b",
-      "name": "The Finker",
-      "symbol": "FINK",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x37a35e2da92047240670ab428504559403b7a4a8",
-      "name": "Thicc Ursula",
-      "symbol": "Ursa",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x39394a9179d686de212852b4c1f6b5ebce8a86bf",
-      "name": "IA inu",
-      "symbol": "IA inu",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x3a0b13ae5b4e26ba1bbd8e68cf9a6d3c9adb144d",
-      "name": "gang",
-      "symbol": "gang",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x3ab58c1324dcfe459074fec4076e7f3d3b94e893",
-      "name": "Inky",
-      "symbol": "INKY",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x3b871798a77d69855b1d6a99ea9dfb8589c953fb",
-      "name": "arbmi",
-      "symbol": "arbmi",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x3babb5285c15d3429374a45b8ba3a339826a2d20",
-      "name": "69hot",
-      "symbol": "69hot ",
-      "decimals": 9
-    },
-    {
-      "chainId": 57073,
-      "address": "0x3da0121d0ed09814b51fc407949154a948906a5c",
-      "name": "Ink Froge",
-      "symbol": "ifroge",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x3daed354c307d9bd4f6fa00fbcca4188b2c8b688",
-      "name": "Squidjak",
-      "symbol": "SQJAK",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x3daed354c307d9bd4f6fa00fbcca4188b2c8b688.png?key=8e4d98"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x3eb9c729099d2ee888b6df7ad99f6f31e73fb198",
-      "name": "yttan",
-      "symbol": "yttan",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x3feff6f9fa512d46a8ade1b9c3ae7a68ab3dd747",
-      "name": "Squid Ink",
-      "symbol": "SQUID",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x4100f16a6e51086767a8f8f426bbf1788a82a685",
-      "name": "Froge",
-      "symbol": "FROGE",
-      "decimals": 9
-    },
-    {
-      "chainId": 57073,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x429c6367fc055c61115f8549b2d284fed715c760",
-      "name": "John A. Zoidberg",
-      "symbol": "Squidman",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x467553d867b965b8df034603f05497096a9157c8",
-      "name": "Squirt",
-      "symbol": "SQUIRT",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x47ceee1bcd515319cb357960a28e6ad066534aca",
-      "name": "Monerochan",
-      "symbol": "MONEROCHAN",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x480c5bc6937cd998b09bc7b2cfbbf00fd123d322",
-      "name": "SPLAT",
-      "symbol": "SPLAT",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
       "address": "0x481fa3b8ec82f38fd556ce30670b7960b9e11da3",
       "name": "Release The Kraken",
       "symbol": "RTK",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x499295a4e0acb52060fcc0789350a4fd79826a79",
-      "name": "Inked Trump",
-      "symbol": "TRUMP",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x481fa3b8ec82f38fd556ce30670b7960b9e11da3.png?key=ccb8a6"
     },
     {
       "chainId": 57073,
@@ -311,81 +73,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0x4e7942a72dcfcc72fa0872068b0dba3921c1bb8a",
-      "name": "SuperChad",
-      "symbol": "CHAD",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
       "address": "0x537d8aa34010b552be087b1627e8dac4ee729bbe",
       "name": "Squidward",
       "symbol": "SQUID",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x537d8aa34010b552be087b1627e8dac4ee729bbe.png?key=4c4296"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x5ac67d1d1b0a5372c03d9d9a00a959336c6d7265",
-      "name": "Octopus Farts",
-      "symbol": "STINK",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x5b254a7a5b921702934a592a6536ebce8d9bc6dc",
-      "name": "dog wif ink pen",
-      "symbol": "inkies",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x5b7f9b6d998d33983303f8242659a7030ff6ae32",
-      "name": "🦑",
-      "symbol": "🦑",
-      "decimals": 8
-    },
-    {
-      "chainId": 57073,
-      "address": "0x5c1970b80e951236aa3293e62db483c6ce747741",
-      "name": "SirSquidward",
-      "symbol": "SQUIDDY",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x5f09055f87f884fed498e377d53699c9490212eb",
-      "name": "Ink Dog",
-      "symbol": "IDOG",
-      "decimals": 9
-    },
-    {
-      "chainId": 57073,
-      "address": "0x62c1b1b5951df9918722b68b15734e14a5d9d86d",
-      "name": "OG",
-      "symbol": "OG",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x635cac237cc00e107c496e37abbd7a269d6c2408",
-      "name": "gukk",
-      "symbol": "gukk",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x658ceffa25a5fbdc746de3ea99332b3846db1c71",
-      "name": "IA inu",
-      "symbol": "IA inu",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x65af0b7515222d73965af6292faa1323e49dfc42",
-      "name": "ERROR404",
-      "symbol": "ERR",
-      "decimals": 18
     },
     {
       "chainId": 57073,
@@ -397,39 +89,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0x67af5d4b1abd954de1704466abd806938a55da44",
-      "name": "IA inu",
-      "symbol": "IA inu",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x689a222026a6babfabcbf015e3c4db1b45703049",
-      "name": "KINK",
-      "symbol": "KINK",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x68ac670d2b77b91d907e4e006764f376c35ff82d",
-      "name": "Squid girl",
-      "symbol": "squidgirl",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
       "address": "0x82ae03bbe6ec576bbd7496cbd67917cc21af097c",
       "name": "Ika",
       "symbol": "IKA",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x82ae03bbe6ec576bbd7496cbd67917cc21af097c.png?key=c21a6a"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x831d72d9d6265a9108afe9d1a07b8e1cc32514d6",
-      "name": "Kraken Official Mascot",
-      "symbol": "Giga",
-      "decimals": 18
     },
     {
       "chainId": 57073,
@@ -449,81 +113,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0x9cae9fe3f756f37a8058148afad0810cef8337bf",
-      "name": "Octo Girl",
-      "symbol": "OCG",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0x9f945d3e02904ed866b182914ab6dc7cf6776845",
-      "name": "333airdrophunt",
-      "symbol": "333",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0xad3be2fcaa83c5805a67f84fc1c24905600b98d5",
-      "name": "rbattt",
-      "symbol": "rbattt",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0xae44bac3814ecc4f5ac3fee16eb06bff1b74fe82",
-      "name": "Pepe Ink",
-      "symbol": "PENK",
-      "decimals": 8
-    },
-    {
-      "chainId": 57073,
-      "address": "0xbe1d544417c0cff98a043ee6b693960743db0820",
-      "name": "🦑",
-      "symbol": "🦑",
-      "decimals": 8
-    },
-    {
-      "chainId": 57073,
-      "address": "0xbe23b5574000f9676e34308b16ab100542b2ff2e",
-      "name": "Inked Fartcoin",
-      "symbol": "Fartcoin",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
       "address": "0xbf0cafcbaaf0be8221ae8d630500984edc908861",
       "name": "SquidSwap",
       "symbol": "SQUIDS",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xbf0cafcbaaf0be8221ae8d630500984edc908861.png?key=1a11c3"
-    },
-    {
-      "chainId": 57073,
-      "address": "0xc846b4f449c1c70c0412ca40e2d8eae065473a5e",
-      "name": "SquidShit",
-      "symbol": "SHIT",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0xc895c4f7f773f5a7c21d8e18c04a747dbc8a4824",
-      "name": "JPOW",
-      "symbol": "JPOW",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0xca67a56d0796af76af1555dbad764e760f3d4fcc",
-      "name": "SAFU",
-      "symbol": "SAFU",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0xca96f401961ad55a4467de769939b828f97792b1",
-      "name": "HOOD COIN",
-      "symbol": "HOOD",
-      "decimals": 18
     },
     {
       "chainId": 57073,
@@ -535,32 +129,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0xcf4312852ba10359706af2ecf5e48dd82201c922",
-      "name": "PEPE on ink",
-      "symbol": "PEPE",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
       "address": "0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d",
       "name": "OctoPepe",
       "symbol": "OCTOPEPE",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d.png?key=86468d"
-    },
-    {
-      "chainId": 57073,
-      "address": "0xd3859f8c9a21d602ea8d414ab0b4279653feaad4",
-      "name": "Squidfart Coin",
-      "symbol": "SQUART",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0xd43e76ff8f95035e220070bddfd3c0c2bdd3051b",
-      "name": "SuperInk",
-      "symbol": "SINK",
-      "decimals": 18
     },
     {
       "chainId": 57073,
@@ -572,20 +145,6 @@
     },
     {
       "chainId": 57073,
-      "address": "0xddcb1875df30f0cc345d370edac7e6c9c07eb92c",
-      "name": "bart",
-      "symbol": "bart",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0xe05b58f1d0fc4688ce0132ecace0558e0c2b5737",
-      "name": "Opiate",
-      "symbol": "op8",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
       "address": "0xe169c0cad1f9e5884c30db1976a39ebc40f8865f",
       "name": "We are going to make Ink ",
       "symbol": "WAGMI",
@@ -594,74 +153,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0xe49c3d82e6427c9d288e58dd9f04f756a2d07509",
-      "name": "gub",
-      "symbol": "gub",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0xe540ba5387720b25a3591ad403998c121c7b545a",
-      "name": "Ink Slut",
-      "symbol": "iSlut",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0xe8c8cfccc23dbdc5928947585817cbc20cb27a54",
-      "name": "🔴+🔵=🟣",
-      "symbol": "🟣",
-      "decimals": 8
-    },
-    {
-      "chainId": 57073,
-      "address": "0xf067e2edca0459502da46a7a5f8095993ae56d62",
-      "name": "gbattt",
-      "symbol": "gbattt",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
       "address": "0xf153abf7c43752bd16035e529427336670aa7d2a",
       "name": "inkwaifu",
       "symbol": "waifu",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xf153abf7c43752bd16035e529427336670aa7d2a.png?key=c2c35d"
-    },
-    {
-      "chainId": 57073,
-      "address": "0xf1815bd50389c46847f0bda824ec8da914045d14",
-      "name": "Bridged USDC (Stargate)",
-      "symbol": "USDC.e",
-      "decimals": 6
-    },
-    {
-      "chainId": 57073,
-      "address": "0xf5fe7068b7b58b34b19de2880cc1db72dd869022",
-      "name": "DogInk",
-      "symbol": "DINK",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0xf62832df026f8bb3eac745ff09dce006808079bd",
-      "name": "Platen",
-      "symbol": "Platen",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0xf6987fef1bec3c2e66ee679c2963f5a3bee98fab",
-      "name": "SQUIGGA",
-      "symbol": "SQUIGGA",
-      "decimals": 18
-    },
-    {
-      "chainId": 57073,
-      "address": "0xff066883076b82061b8cc8685f94d332031d9967",
-      "name": "IA inu",
-      "symbol": "IA inu",
-      "decimals": 18
     }
   ],
   "keywords": [
