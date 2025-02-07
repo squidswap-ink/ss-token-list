@@ -20,12 +20,15 @@ jobs:
         run: npm install
           
       - name: Update Token List
+        env:
+          SUBGRAPH_URL: ${{ secrets.SUBGRAPH_URL }}
         run: node update-tokenlist.js
         
-      - name: Commit and Push
+      - name: Configure Git and Push
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
+          git remote set-url origin https://${{ secrets.PAT_TOKEN }}@github.com/squidswap-ink/ss-token-list.git
           git add tokenlist.json
           git diff --quiet && git diff --staged --quiet || git commit -m "Update token list"
           git push
