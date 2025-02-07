@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-06T21:48:41.063Z",
+  "timestamp": "2025-02-07T18:50:58.559Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -19,8 +19,7 @@
       "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
       "name": "USD₮0",
       "symbol": "USD₮0",
-      "decimals": 6,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d.png?key=86468d"
+      "decimals": 6
     },
     {
       "chainId": 57073,
@@ -122,7 +121,8 @@
       "address": "0x232e0fef23dc0d6371ac2e59a6b7bfac2b971fe5",
       "name": "Sonichu Boobshark Crystal Pepsi 69",
       "symbol": "SHARK",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x232e0fef23dc0d6371ac2e59a6b7bfac2b971fe5.png?key=f57374"
     },
     {
       "chainId": 57073,
@@ -200,8 +200,7 @@
       "address": "0x3ab58c1324dcfe459074fec4076e7f3d3b94e893",
       "name": "Inky",
       "symbol": "INKY",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x3ab58c1324dcfe459074fec4076e7f3d3b94e893.png?key=909650"
+      "decimals": 18
     },
     {
       "chainId": 57073,
@@ -241,6 +240,13 @@
     },
     {
       "chainId": 57073,
+      "address": "0x3feff6f9fa512d46a8ade1b9c3ae7a68ab3dd747",
+      "name": "Squid Ink",
+      "symbol": "SQUID",
+      "decimals": 18
+    },
+    {
+      "chainId": 57073,
       "address": "0x4100f16a6e51086767a8f8f426bbf1788a82a685",
       "name": "Froge",
       "symbol": "FROGE",
@@ -251,8 +257,7 @@
       "address": "0x4200000000000000000000000000000000000006",
       "name": "Wrapped Ether",
       "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x2a1bce657f919ac3f9ab50b2584cfc77563a02ec.png?key=5687c8"
+      "decimals": 18
     },
     {
       "chainId": 57073,
@@ -280,8 +285,7 @@
       "address": "0x480c5bc6937cd998b09bc7b2cfbbf00fd123d322",
       "name": "SPLAT",
       "symbol": "SPLAT",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x480c5bc6937cd998b09bc7b2cfbbf00fd123d322.png?key=7e4b5b"
+      "decimals": 18
     },
     {
       "chainId": 57073,
@@ -346,8 +350,7 @@
       "address": "0x5c1970b80e951236aa3293e62db483c6ce747741",
       "name": "SirSquidward",
       "symbol": "SQUIDDY",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x5c1970b80e951236aa3293e62db483c6ce747741.png?key=40b844"
+      "decimals": 18
     },
     {
       "chainId": 57073,
@@ -433,7 +436,8 @@
       "address": "0x8e0f9350e294f49f8016ee250ff60448598cb8a1",
       "name": "Gamercoin",
       "symbol": "GAMER",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x8e0f9350e294f49f8016ee250ff60448598cb8a1.png?key=e1641e"
     },
     {
       "chainId": 57073,
@@ -483,8 +487,7 @@
       "address": "0xbe23b5574000f9676e34308b16ab100542b2ff2e",
       "name": "Inked Fartcoin",
       "symbol": "Fartcoin",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xbe23b5574000f9676e34308b16ab100542b2ff2e.png?key=aa11df"
+      "decimals": 18
     },
     {
       "chainId": 57073,
@@ -492,7 +495,7 @@
       "name": "SquidSwap",
       "symbol": "SQUIDS",
       "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x82ae03bbe6ec576bbd7496cbd67917cc21af097c.png?key=c21a6a"
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xbf0cafcbaaf0be8221ae8d630500984edc908861.png?key=1a11c3"
     },
     {
       "chainId": 57073,
@@ -622,7 +625,8 @@
       "address": "0xf153abf7c43752bd16035e529427336670aa7d2a",
       "name": "inkwaifu",
       "symbol": "waifu",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xf153abf7c43752bd16035e529427336670aa7d2a.png?key=c2c35d"
     },
     {
       "chainId": 57073,

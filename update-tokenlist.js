@@ -14,26 +14,70 @@ async function fetchTokens() {
   
   // Create a map for token logos
   const tokenLogos = new Map();
+  const debugLog = {
+    totalPairs: 0,
+    pairs: [],
+    logoAssignments: []
+  };
   
   // Process pairs to extract token logos
   if (dexScreenerData.pairs) {
+    debugLog.totalPairs = dexScreenerData.pairs.length;
     console.log(`Found ${dexScreenerData.pairs.length} pairs on DexScreener`);
-    dexScreenerData.pairs.forEach(pair => {
-      // Handle base token logo
-      if (pair.baseToken?.address && pair.baseToken?.logoURI) {
-        const baseAddress = pair.baseToken.address.toLowerCase();
-        tokenLogos.set(baseAddress, pair.baseToken.logoURI);
-        console.log(`Setting logo for ${pair.baseToken.symbol}: ${pair.baseToken.logoURI}`);
+    console.log('First pair sample:', JSON.stringify(dexScreenerData.pairs[0], null, 2));
+    
+    dexScreenerData.pairs.forEach((pair, index) => {
+      const pairLog = {
+        index: index + 1,
+        baseToken: {
+          symbol: pair.baseToken?.symbol,
+          address: pair.baseToken?.address
+        },
+        quoteToken: {
+          symbol: pair.quoteToken?.symbol,
+          address: pair.quoteToken?.address
+        },
+        imageUrl: pair.info?.imageUrl,
+        result: 'no_match'
+      };
+      
+      // Extract token address from image URL if possible
+      const imageUrlMatch = pair.info?.imageUrl?.match(/tokens\/ink\/(0x[a-fA-F0-9]{40})/);
+      if (imageUrlMatch) {
+        const imageTokenAddress = imageUrlMatch[1].toLowerCase();
+        pairLog.imageTokenAddress = imageTokenAddress;
+        
+        // Check if this image matches either token
+        if (pair.baseToken?.address?.toLowerCase() === imageTokenAddress) {
+          tokenLogos.set(imageTokenAddress, pair.info.imageUrl);
+          pairLog.result = 'matched_base';
+          debugLog.logoAssignments.push({
+            symbol: pair.baseToken.symbol,
+            address: imageTokenAddress,
+            imageUrl: pair.info.imageUrl
+          });
+        } else if (pair.quoteToken?.address?.toLowerCase() === imageTokenAddress) {
+          tokenLogos.set(imageTokenAddress, pair.info.imageUrl);
+          pairLog.result = 'matched_quote';
+          debugLog.logoAssignments.push({
+            symbol: pair.quoteToken.symbol,
+            address: imageTokenAddress,
+            imageUrl: pair.info.imageUrl
+          });
+        } else {
+          pairLog.result = 'address_mismatch';
+        }
+      } else {
+        pairLog.result = 'no_address_in_url';
       }
-      // Handle quote token logo
-      if (pair.quoteToken?.address && pair.quoteToken?.logoURI) {
-        const quoteAddress = pair.quoteToken.address.toLowerCase();
-        tokenLogos.set(quoteAddress, pair.quoteToken.logoURI);
-        console.log(`Setting logo for ${pair.quoteToken.symbol}: ${pair.quoteToken.logoURI}`);
-      }
+      
+      debugLog.pairs.push(pairLog);
     });
   }
-
+  
+  // Write debug log to file
+  fs.writeFileSync('debug_log.json', JSON.stringify(debugLog, null, 2));
+  
   // Then get tokens from subgraph
   console.log('\nFetching tokens from Subgraph...');
   const subgraphResponse = await fetch(SUBGRAPH_URL, {

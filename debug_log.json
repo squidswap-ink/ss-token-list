@@ -1,0 +1,490 @@
+{
+  "totalPairs": 28,
+  "pairs": [
+    {
+      "index": 1,
+      "baseToken": {
+        "symbol": "SQUIDS",
+        "address": "0xbf0cAfCbaaF0be8221Ae8d630500984eDC908861"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0xbf0cafcbaaf0be8221ae8d630500984edc908861.png?key=1a11c3",
+      "result": "matched_base",
+      "imageTokenAddress": "0xbf0cafcbaaf0be8221ae8d630500984edc908861"
+    },
+    {
+      "index": 2,
+      "baseToken": {
+        "symbol": "SHROOMY",
+        "address": "0x0c5E2D1C98cd265C751e02F8F3293bC5764F9111"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111.png?key=e46a95",
+      "result": "matched_base",
+      "imageTokenAddress": "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111"
+    },
+    {
+      "index": 3,
+      "baseToken": {
+        "symbol": "CAT",
+        "address": "0x20C69C12abf2B6F8D8ca33604DD25C700c7e70A5"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5.png?key=fa92d6",
+      "result": "matched_base",
+      "imageTokenAddress": "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5"
+    },
+    {
+      "index": 4,
+      "baseToken": {
+        "symbol": "PURPLE",
+        "address": "0xD642B49d10cc6e1BC1c6945725667c35e0875f22"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd642b49d10cc6e1bc1c6945725667c35e0875f22.png?key=2c74f7",
+      "result": "matched_base",
+      "imageTokenAddress": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22"
+    },
+    {
+      "index": 5,
+      "baseToken": {
+        "symbol": "USD₮0",
+        "address": "0x0200C29006150606B650577BBE7B6248F58470c1"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "result": "no_address_in_url"
+    },
+    {
+      "index": 6,
+      "baseToken": {
+        "symbol": "KRILL",
+        "address": "0xCb95A3840c8eA5F0D4E78B67eC897Df84d17c5e6"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0xcb95a3840c8ea5f0d4e78b67ec897df84d17c5e6.png?key=0ad5f5",
+      "result": "matched_base",
+      "imageTokenAddress": "0xcb95a3840c8ea5f0d4e78b67ec897df84d17c5e6"
+    },
+    {
+      "index": 7,
+      "baseToken": {
+        "symbol": "IKA",
+        "address": "0x82ae03Bbe6EC576bBD7496CbD67917CC21Af097C"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x82ae03bbe6ec576bbd7496cbd67917cc21af097c.png?key=c21a6a",
+      "result": "matched_base",
+      "imageTokenAddress": "0x82ae03bbe6ec576bbd7496cbd67917cc21af097c"
+    },
+    {
+      "index": 8,
+      "baseToken": {
+        "symbol": "KRILL",
+        "address": "0xCb95A3840c8eA5F0D4E78B67eC897Df84d17c5e6"
+      },
+      "quoteToken": {
+        "symbol": "USD₮0",
+        "address": "0x0200C29006150606B650577BBE7B6248F58470c1"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0xcb95a3840c8ea5f0d4e78b67ec897df84d17c5e6.png?key=0ad5f5",
+      "result": "matched_base",
+      "imageTokenAddress": "0xcb95a3840c8ea5f0d4e78b67ec897df84d17c5e6"
+    },
+    {
+      "index": 9,
+      "baseToken": {
+        "symbol": "SQUI",
+        "address": "0x67314f6a5732a308408969269618F38132777a45"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x67314f6a5732a308408969269618f38132777a45.png?key=a69d9f",
+      "result": "matched_base",
+      "imageTokenAddress": "0x67314f6a5732a308408969269618f38132777a45"
+    },
+    {
+      "index": 10,
+      "baseToken": {
+        "symbol": "$SQUID",
+        "address": "0x937c131cDa1C2CED4c87a396A300D205e9107FF0"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x937c131cda1c2ced4c87a396a300d205e9107ff0.png?key=7153e6",
+      "result": "matched_base",
+      "imageTokenAddress": "0x937c131cda1c2ced4c87a396a300d205e9107ff0"
+    },
+    {
+      "index": 11,
+      "baseToken": {
+        "symbol": "OCTOPEPE",
+        "address": "0xd0ECA4bD623baD9a3872D31b6Ac7065E4Fa9344d"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d.png?key=86468d",
+      "result": "matched_base",
+      "imageTokenAddress": "0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d"
+    },
+    {
+      "index": 12,
+      "baseToken": {
+        "symbol": "SQJAK",
+        "address": "0x3daEd354c307D9Bd4f6fA00fbCca4188b2C8B688"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x3daed354c307d9bd4f6fa00fbcca4188b2c8b688.png?key=8e4d98",
+      "result": "matched_base",
+      "imageTokenAddress": "0x3daed354c307d9bd4f6fa00fbcca4188b2c8b688"
+    },
+    {
+      "index": 13,
+      "baseToken": {
+        "symbol": "waifu",
+        "address": "0xf153Abf7C43752bD16035e529427336670Aa7D2a"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0xf153abf7c43752bd16035e529427336670aa7d2a.png?key=c2c35d",
+      "result": "matched_base",
+      "imageTokenAddress": "0xf153abf7c43752bd16035e529427336670aa7d2a"
+    },
+    {
+      "index": 14,
+      "baseToken": {
+        "symbol": "SQUID",
+        "address": "0x537D8AA34010B552BE087B1627E8dAc4ee729bBe"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x537d8aa34010b552be087b1627e8dac4ee729bbe.png?key=4c4296",
+      "result": "matched_base",
+      "imageTokenAddress": "0x537d8aa34010b552be087b1627e8dac4ee729bbe"
+    },
+    {
+      "index": 15,
+      "baseToken": {
+        "symbol": "PUPE",
+        "address": "0x09155471956d01493bB75DDD56D3BEb661FAb4A8"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x09155471956d01493bb75ddd56d3beb661fab4a8.png?key=fd534f",
+      "result": "matched_base",
+      "imageTokenAddress": "0x09155471956d01493bb75ddd56d3beb661fab4a8"
+    },
+    {
+      "index": 16,
+      "baseToken": {
+        "symbol": "SHARK",
+        "address": "0x232E0feF23DC0d6371Ac2e59A6b7BFaC2B971fe5"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x232e0fef23dc0d6371ac2e59a6b7bfac2b971fe5.png?key=f57374",
+      "result": "matched_base",
+      "imageTokenAddress": "0x232e0fef23dc0d6371ac2e59a6b7bfac2b971fe5"
+    },
+    {
+      "index": 17,
+      "baseToken": {
+        "symbol": "GAMER",
+        "address": "0x8e0f9350e294F49f8016EE250ff60448598cB8a1"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x8e0f9350e294f49f8016ee250ff60448598cb8a1.png?key=e1641e",
+      "result": "matched_base",
+      "imageTokenAddress": "0x8e0f9350e294f49f8016ee250ff60448598cb8a1"
+    },
+    {
+      "index": 18,
+      "baseToken": {
+        "symbol": "$SINSIDE",
+        "address": "0x4dF54F6B953552D1968d242cd8028C52ad330E5d"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x4df54f6b953552d1968d242cd8028c52ad330e5d.png?key=6a0b50",
+      "result": "matched_base",
+      "imageTokenAddress": "0x4df54f6b953552d1968d242cd8028c52ad330e5d"
+    },
+    {
+      "index": 19,
+      "baseToken": {
+        "symbol": "WAGMI",
+        "address": "0xE169c0cad1f9e5884C30db1976A39eBc40F8865F"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0xe169c0cad1f9e5884c30db1976a39ebc40f8865f.png?key=1ebaa9",
+      "result": "matched_base",
+      "imageTokenAddress": "0xe169c0cad1f9e5884c30db1976a39ebc40f8865f"
+    },
+    {
+      "index": 20,
+      "baseToken": {
+        "symbol": "USDC.e",
+        "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "result": "no_address_in_url"
+    },
+    {
+      "index": 21,
+      "baseToken": {
+        "symbol": "DINK",
+        "address": "0xf5FE7068B7b58B34b19De2880CC1Db72dd869022"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "result": "no_address_in_url"
+    },
+    {
+      "index": 22,
+      "baseToken": {
+        "symbol": "DBI",
+        "address": "0x21C97338b1EA81A0b49930483C70d5B79ABcf041"
+      },
+      "quoteToken": {
+        "symbol": "SQUIDS",
+        "address": "0xbf0cAfCbaaF0be8221Ae8d630500984eDC908861"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x21c97338b1ea81a0b49930483c70d5b79abcf041.png?key=3b6115",
+      "result": "matched_base",
+      "imageTokenAddress": "0x21c97338b1ea81a0b49930483c70d5b79abcf041"
+    },
+    {
+      "index": 23,
+      "baseToken": {
+        "symbol": "AK47",
+        "address": "0x2a1bce657F919ac3f9aB50b2584CFC77563A02Ec"
+      },
+      "quoteToken": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x2a1bce657f919ac3f9ab50b2584cfc77563a02ec.png?key=5687c8",
+      "result": "matched_base",
+      "imageTokenAddress": "0x2a1bce657f919ac3f9ab50b2584cfc77563a02ec"
+    },
+    {
+      "index": 24,
+      "baseToken": {
+        "symbol": "IKA",
+        "address": "0x82ae03Bbe6EC576bBD7496CbD67917CC21Af097C"
+      },
+      "quoteToken": {
+        "symbol": "USD₮0",
+        "address": "0x0200C29006150606B650577BBE7B6248F58470c1"
+      },
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x82ae03bbe6ec576bbd7496cbd67917cc21af097c.png?key=c21a6a",
+      "result": "matched_base",
+      "imageTokenAddress": "0x82ae03bbe6ec576bbd7496cbd67917cc21af097c"
+    },
+    {
+      "index": 25,
+      "baseToken": {
+        "symbol": "SQUID",
+        "address": "0x2e3b82891d1B2b90655597110cCA9b6587607e0c"
+      },
+      "quoteToken": {
+        "symbol": "IKA",
+        "address": "0x82ae03Bbe6EC576bBD7496CbD67917CC21Af097C"
+      },
+      "result": "no_address_in_url"
+    },
+    {
+      "index": 26,
+      "baseToken": {
+        "symbol": "SQUID",
+        "address": "0x2e3b82891d1B2b90655597110cCA9b6587607e0c"
+      },
+      "quoteToken": {
+        "symbol": "SQUIDS",
+        "address": "0xbf0cAfCbaaF0be8221Ae8d630500984eDC908861"
+      },
+      "result": "no_address_in_url"
+    },
+    {
+      "index": 27,
+      "baseToken": {
+        "symbol": "SQUID",
+        "address": "0x2e3b82891d1B2b90655597110cCA9b6587607e0c"
+      },
+      "quoteToken": {
+        "symbol": "FINK",
+        "address": "0x3379B82E2C225788e876b415B4F27CbB66EEC09B"
+      },
+      "result": "no_address_in_url"
+    },
+    {
+      "index": 28,
+      "baseToken": {
+        "symbol": "SQUID",
+        "address": "0x2e3b82891d1B2b90655597110cCA9b6587607e0c"
+      },
+      "quoteToken": {
+        "symbol": "USDC.e",
+        "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14"
+      },
+      "result": "no_address_in_url"
+    }
+  ],
+  "logoAssignments": [
+    {
+      "symbol": "SQUIDS",
+      "address": "0xbf0cafcbaaf0be8221ae8d630500984edc908861",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0xbf0cafcbaaf0be8221ae8d630500984edc908861.png?key=1a11c3"
+    },
+    {
+      "symbol": "SHROOMY",
+      "address": "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111.png?key=e46a95"
+    },
+    {
+      "symbol": "CAT",
+      "address": "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5.png?key=fa92d6"
+    },
+    {
+      "symbol": "PURPLE",
+      "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd642b49d10cc6e1bc1c6945725667c35e0875f22.png?key=2c74f7"
+    },
+    {
+      "symbol": "KRILL",
+      "address": "0xcb95a3840c8ea5f0d4e78b67ec897df84d17c5e6",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0xcb95a3840c8ea5f0d4e78b67ec897df84d17c5e6.png?key=0ad5f5"
+    },
+    {
+      "symbol": "IKA",
+      "address": "0x82ae03bbe6ec576bbd7496cbd67917cc21af097c",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x82ae03bbe6ec576bbd7496cbd67917cc21af097c.png?key=c21a6a"
+    },
+    {
+      "symbol": "KRILL",
+      "address": "0xcb95a3840c8ea5f0d4e78b67ec897df84d17c5e6",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0xcb95a3840c8ea5f0d4e78b67ec897df84d17c5e6.png?key=0ad5f5"
+    },
+    {
+      "symbol": "SQUI",
+      "address": "0x67314f6a5732a308408969269618f38132777a45",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x67314f6a5732a308408969269618f38132777a45.png?key=a69d9f"
+    },
+    {
+      "symbol": "$SQUID",
+      "address": "0x937c131cda1c2ced4c87a396a300d205e9107ff0",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x937c131cda1c2ced4c87a396a300d205e9107ff0.png?key=7153e6"
+    },
+    {
+      "symbol": "OCTOPEPE",
+      "address": "0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d.png?key=86468d"
+    },
+    {
+      "symbol": "SQJAK",
+      "address": "0x3daed354c307d9bd4f6fa00fbcca4188b2c8b688",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x3daed354c307d9bd4f6fa00fbcca4188b2c8b688.png?key=8e4d98"
+    },
+    {
+      "symbol": "waifu",
+      "address": "0xf153abf7c43752bd16035e529427336670aa7d2a",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0xf153abf7c43752bd16035e529427336670aa7d2a.png?key=c2c35d"
+    },
+    {
+      "symbol": "SQUID",
+      "address": "0x537d8aa34010b552be087b1627e8dac4ee729bbe",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x537d8aa34010b552be087b1627e8dac4ee729bbe.png?key=4c4296"
+    },
+    {
+      "symbol": "PUPE",
+      "address": "0x09155471956d01493bb75ddd56d3beb661fab4a8",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x09155471956d01493bb75ddd56d3beb661fab4a8.png?key=fd534f"
+    },
+    {
+      "symbol": "SHARK",
+      "address": "0x232e0fef23dc0d6371ac2e59a6b7bfac2b971fe5",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x232e0fef23dc0d6371ac2e59a6b7bfac2b971fe5.png?key=f57374"
+    },
+    {
+      "symbol": "GAMER",
+      "address": "0x8e0f9350e294f49f8016ee250ff60448598cb8a1",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x8e0f9350e294f49f8016ee250ff60448598cb8a1.png?key=e1641e"
+    },
+    {
+      "symbol": "$SINSIDE",
+      "address": "0x4df54f6b953552d1968d242cd8028c52ad330e5d",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x4df54f6b953552d1968d242cd8028c52ad330e5d.png?key=6a0b50"
+    },
+    {
+      "symbol": "WAGMI",
+      "address": "0xe169c0cad1f9e5884c30db1976a39ebc40f8865f",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0xe169c0cad1f9e5884c30db1976a39ebc40f8865f.png?key=1ebaa9"
+    },
+    {
+      "symbol": "DBI",
+      "address": "0x21c97338b1ea81a0b49930483c70d5b79abcf041",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x21c97338b1ea81a0b49930483c70d5b79abcf041.png?key=3b6115"
+    },
+    {
+      "symbol": "AK47",
+      "address": "0x2a1bce657f919ac3f9ab50b2584cfc77563a02ec",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x2a1bce657f919ac3f9ab50b2584cfc77563a02ec.png?key=5687c8"
+    },
+    {
+      "symbol": "IKA",
+      "address": "0x82ae03bbe6ec576bbd7496cbd67917cc21af097c",
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ink/0x82ae03bbe6ec576bbd7496cbd67917cc21af097c.png?key=c21a6a"
+    }
+  ]
+}
