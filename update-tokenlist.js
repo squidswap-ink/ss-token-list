@@ -19,13 +19,17 @@ async function fetchTokens() {
   if (dexScreenerData.pairs) {
     console.log(`Found ${dexScreenerData.pairs.length} pairs on DexScreener`);
     dexScreenerData.pairs.forEach(pair => {
-      if (pair.baseToken?.address && pair.info?.imageUrl) {
-        tokenLogos.set(pair.baseToken.address.toLowerCase(), pair.info.imageUrl);
-        console.log(`Found logo for ${pair.baseToken.symbol}: ${pair.info.imageUrl}`);
+      // Handle base token logo
+      if (pair.baseToken?.address && pair.baseToken?.logoURI) {
+        const baseAddress = pair.baseToken.address.toLowerCase();
+        tokenLogos.set(baseAddress, pair.baseToken.logoURI);
+        console.log(`Setting logo for ${pair.baseToken.symbol}: ${pair.baseToken.logoURI}`);
       }
-      if (pair.quoteToken?.address && pair.info?.imageUrl) {
-        tokenLogos.set(pair.quoteToken.address.toLowerCase(), pair.info.imageUrl);
-        console.log(`Found logo for ${pair.quoteToken.symbol}: ${pair.info.imageUrl}`);
+      // Handle quote token logo
+      if (pair.quoteToken?.address && pair.quoteToken?.logoURI) {
+        const quoteAddress = pair.quoteToken.address.toLowerCase();
+        tokenLogos.set(quoteAddress, pair.quoteToken.logoURI);
+        console.log(`Setting logo for ${pair.quoteToken.symbol}: ${pair.quoteToken.logoURI}`);
       }
     });
   }
