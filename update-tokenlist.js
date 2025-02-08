@@ -125,19 +125,29 @@ async function fetchTokens() {
       minor: 0,
       patch: 0
     },
-    tokens: tokensWithLogos.map(token => {
-      const address = token.id.toLowerCase();
-      const logoURI = tokenLogos.get(address);
-      console.log(`Adding token ${token.symbol} with logo: ${logoURI}`);
-      return {
+    tokens: [
+      {
         chainId: 57073,
-        address: token.id,
-        name: token.name,
-        symbol: token.symbol,
-        decimals: parseInt(token.decimals),
-        logoURI
-      };
-    }),
+        address: '0x0200C29006150606B650577BBE7B6248F58470c1',
+        name: 'USD₮0',
+        symbol: 'USD₮0',
+        decimals: 6,
+        logoURI: 'https://yellow-rear-vulture-494.mypinata.cloud/ipfs/QmVNNbfPwjgyA16p9K5RJPVeUzBai9wNW7g4n9KVaNfbXa'
+      },
+      ...tokensWithLogos.map(token => {
+        const address = token.id.toLowerCase();
+        const logoURI = tokenLogos.get(address);
+        console.log(`Adding token ${token.symbol} with logo: ${logoURI}`);
+        return {
+          chainId: 57073,
+          address: token.id,
+          name: token.name,
+          symbol: token.symbol,
+          decimals: parseInt(token.decimals),
+          logoURI
+        };
+      }),
+    ],
     keywords: ['squidswap', 'default'],
     tags: {},
     logoURI: ''
