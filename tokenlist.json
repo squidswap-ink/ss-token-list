@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-08T19:16:18.478Z",
+  "timestamp": "2025-02-08T19:27:11.334Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -70,6 +70,14 @@
       "symbol": "RTK",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x481fa3b8ec82f38fd556ce30670b7960b9e11da3.png?key=ccb8a6"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x4df54f6b953552d1968d242cd8028c52ad330e5d",
+      "name": "SQUINSIDORS",
+      "symbol": "$SINSIDE",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x4df54f6b953552d1968d242cd8028c52ad330e5d.png?key=6a0b50"
     },
     {
       "chainId": 57073,
