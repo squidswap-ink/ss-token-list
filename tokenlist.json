@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-09T03:34:35.194Z",
+  "timestamp": "2025-02-09T03:46:26.585Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -54,6 +54,14 @@
       "symbol": "SQJAK",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x3daed354c307d9bd4f6fa00fbcca4188b2c8b688.png?key=8e4d98"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x480c5bc6937cd998b09bc7b2cfbbf00fd123d322",
+      "name": "SPLAT",
+      "symbol": "SPLAT",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x480c5bc6937cd998b09bc7b2cfbbf00fd123d322.png?key=7e4b5b"
     },
     {
       "chainId": 57073,
