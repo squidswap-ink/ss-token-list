@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-08T23:59:43.495Z",
+  "timestamp": "2025-02-09T01:53:32.441Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -14,14 +14,6 @@
       "symbol": "USD₮0",
       "decimals": 6,
       "logoURI": "https://yellow-rear-vulture-494.mypinata.cloud/ipfs/QmVNNbfPwjgyA16p9K5RJPVeUzBai9wNW7g4n9KVaNfbXa"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x09155471956d01493bb75ddd56d3beb661fab4a8",
-      "name": "Purple Pepe",
-      "symbol": "PUPE",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x09155471956d01493bb75ddd56d3beb661fab4a8.png?key=fd534f"
     },
     {
       "chainId": 57073,
@@ -134,6 +126,14 @@
       "symbol": "PURPLE",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd642b49d10cc6e1bc1c6945725667c35e0875f22.png?key=2c74f7"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xe169c0cad1f9e5884c30db1976a39ebc40f8865f",
+      "name": "We are going to make Ink ",
+      "symbol": "WAGMI",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xe169c0cad1f9e5884c30db1976a39ebc40f8865f.png?key=1ebaa9"
     }
   ],
   "keywords": [
