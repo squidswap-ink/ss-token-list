@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-11T12:40:29.898Z",
+  "timestamp": "2025-02-11T13:13:11.267Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -65,6 +65,14 @@
     },
     {
       "chainId": 57073,
+      "address": "0x3ab58c1324dcfe459074fec4076e7f3d3b94e893",
+      "name": "Inky",
+      "symbol": "INKY",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x3ab58c1324dcfe459074fec4076e7f3d3b94e893.png?key=909650"
+    },
+    {
+      "chainId": 57073,
       "address": "0x3daed354c307d9bd4f6fa00fbcca4188b2c8b688",
       "name": "Squidjak",
       "symbol": "SQJAK",
@@ -86,6 +94,14 @@
       "symbol": "$SINSIDE",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x4df54f6b953552d1968d242cd8028c52ad330e5d.png?key=6a0b50"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x537d8aa34010b552be087b1627e8dac4ee729bbe",
+      "name": "Squidward",
+      "symbol": "SQUID",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x537d8aa34010b552be087b1627e8dac4ee729bbe.png?key=4c4296"
     },
     {
       "chainId": 57073,
