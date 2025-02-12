@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-12T08:56:33.902Z",
+  "timestamp": "2025-02-12T09:22:18.834Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -94,6 +94,14 @@
       "symbol": "SQUID",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x537d8aa34010b552be087b1627e8dac4ee729bbe.png?key=4c4296"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x5c1970b80e951236aa3293e62db483c6ce747741",
+      "name": "SirSquidward",
+      "symbol": "SQUIDDY",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x5c1970b80e951236aa3293e62db483c6ce747741.png?key=40b844"
     },
     {
       "chainId": 57073,
