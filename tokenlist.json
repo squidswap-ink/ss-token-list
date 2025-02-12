@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-12T11:46:16.390Z",
+  "timestamp": "2025-02-12T11:57:25.567Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -14,14 +14,6 @@
       "symbol": "USD₮0",
       "decimals": 6,
       "logoURI": "https://yellow-rear-vulture-494.mypinata.cloud/ipfs/QmVNNbfPwjgyA16p9K5RJPVeUzBai9wNW7g4n9KVaNfbXa"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x09155471956d01493bb75ddd56d3beb661fab4a8",
-      "name": "Purple Pepe",
-      "symbol": "PUPE",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x09155471956d01493bb75ddd56d3beb661fab4a8.png?key=fd534f"
     },
     {
       "chainId": 57073,
