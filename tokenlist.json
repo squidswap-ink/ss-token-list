@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-12T07:56:14.212Z",
+  "timestamp": "2025-02-12T08:26:57.866Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -46,14 +46,6 @@
       "symbol": "DBI",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x21c97338b1ea81a0b49930483c70d5b79abcf041.png?key=3b6115"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x232e0fef23dc0d6371ac2e59a6b7bfac2b971fe5",
-      "name": "Sonichu Boobshark Crystal Pepsi 69",
-      "symbol": "SHARK",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x232e0fef23dc0d6371ac2e59a6b7bfac2b971fe5.png?key=f57374"
     },
     {
       "chainId": 57073,
