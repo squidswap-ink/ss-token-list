@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-14T17:17:42.174Z",
+  "timestamp": "2025-02-14T17:31:19.896Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -29,7 +29,7 @@
       "name": "Shroomy",
       "symbol": "SHROOMY",
       "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111.png?key=e46a95"
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111.png?key=a238eb"
     },
     {
       "chainId": 57073,
