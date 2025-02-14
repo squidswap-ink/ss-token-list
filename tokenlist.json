@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-14T09:38:04.014Z",
+  "timestamp": "2025-02-14T09:49:33.543Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -70,6 +70,14 @@
       "symbol": "SQJAK",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x3daed354c307d9bd4f6fa00fbcca4188b2c8b688.png?key=8e4d98"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x481fa3b8ec82f38fd556ce30670b7960b9e11da3",
+      "name": "Release The Kraken",
+      "symbol": "RTK",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x481fa3b8ec82f38fd556ce30670b7960b9e11da3.png?key=ccb8a6"
     },
     {
       "chainId": 57073,
