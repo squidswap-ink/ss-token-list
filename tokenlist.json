@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-17T11:56:30.486Z",
+  "timestamp": "2025-02-17T12:42:48.371Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -62,6 +62,14 @@
       "symbol": "IKA",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x82ae03bbe6ec576bbd7496cbd67917cc21af097c.png?key=c21a6a"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xae44bac3814ecc4f5ac3fee16eb06bff1b74fe82",
+      "name": "Pepe Ink",
+      "symbol": "PENK",
+      "decimals": 8,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xae44bac3814ecc4f5ac3fee16eb06bff1b74fe82.png?key=5372bf"
     },
     {
       "chainId": 57073,
