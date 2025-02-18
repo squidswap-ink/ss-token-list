@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-18T13:56:12.684Z",
+  "timestamp": "2025-02-18T14:19:22.484Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -54,6 +54,14 @@
       "symbol": "SHARK",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x232e0fef23dc0d6371ac2e59a6b7bfac2b971fe5.png?key=f57374"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x3daed354c307d9bd4f6fa00fbcca4188b2c8b688",
+      "name": "Squidjak",
+      "symbol": "SQJAK",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x3daed354c307d9bd4f6fa00fbcca4188b2c8b688.png?key=8e4d98"
     },
     {
       "chainId": 57073,
