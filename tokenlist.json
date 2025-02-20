@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-20T07:57:44.856Z",
+  "timestamp": "2025-02-20T08:30:02.406Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -14,14 +14,6 @@
       "symbol": "USD₮0",
       "decimals": 6,
       "logoURI": "https://yellow-rear-vulture-494.mypinata.cloud/ipfs/QmVNNbfPwjgyA16p9K5RJPVeUzBai9wNW7g4n9KVaNfbXa"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x09155471956d01493bb75ddd56d3beb661fab4a8",
-      "name": "Purple Pepe",
-      "symbol": "PUPE",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x09155471956d01493bb75ddd56d3beb661fab4a8.png?key=fd534f"
     },
     {
       "chainId": 57073,
@@ -62,22 +54,6 @@
       "symbol": "GMINKY",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x44c497597aa32f5f2b7edb91522f321f04f03cd7.png?key=fe0c78"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x480c5bc6937cd998b09bc7b2cfbbf00fd123d322",
-      "name": "SPLAT",
-      "symbol": "SPLAT",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x480c5bc6937cd998b09bc7b2cfbbf00fd123d322.png?key=7e4b5b"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x481fa3b8ec82f38fd556ce30670b7960b9e11da3",
-      "name": "Release The Kraken",
-      "symbol": "RTK",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x481fa3b8ec82f38fd556ce30670b7960b9e11da3.png?key=ccb8a6"
     },
     {
       "chainId": 57073,
