@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-21T01:51:17.840Z",
+  "timestamp": "2025-02-21T02:50:14.658Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -41,6 +41,14 @@
     },
     {
       "chainId": 57073,
+      "address": "0x3daed354c307d9bd4f6fa00fbcca4188b2c8b688",
+      "name": "Squidjak",
+      "symbol": "SQJAK",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x3daed354c307d9bd4f6fa00fbcca4188b2c8b688.png?key=8e4d98"
+    },
+    {
+      "chainId": 57073,
       "address": "0x44c497597aa32f5f2b7edb91522f321f04f03cd7",
       "name": "GMINKY",
       "symbol": "GMINKY",
@@ -54,14 +62,6 @@
       "symbol": "SQUI",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x67314f6a5732a308408969269618f38132777a45.png?key=a69d9f"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x82ae03bbe6ec576bbd7496cbd67917cc21af097c",
-      "name": "Ika",
-      "symbol": "IKA",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x82ae03bbe6ec576bbd7496cbd67917cc21af097c.png?key=c21a6a"
     },
     {
       "chainId": 57073,
