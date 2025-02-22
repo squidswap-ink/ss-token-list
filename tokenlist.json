@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-22T15:22:27.196Z",
+  "timestamp": "2025-02-22T15:36:33.180Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -78,6 +78,14 @@
       "symbol": "Arch",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xb816f5951a2e568d6eae351443c789c4f9fb55a7.png?key=31a0df"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xbe23b5574000f9676e34308b16ab100542b2ff2e",
+      "name": "Inked Fartcoin",
+      "symbol": "Fartcoin",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xbe23b5574000f9676e34308b16ab100542b2ff2e.png?key=aa11df"
     },
     {
       "chainId": 57073,
