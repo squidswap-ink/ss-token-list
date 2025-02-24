@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-24T20:40:39.278Z",
+  "timestamp": "2025-02-24T20:56:33.298Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -78,6 +78,14 @@
       "symbol": "IKA",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x82ae03bbe6ec576bbd7496cbd67917cc21af097c.png?key=c21a6a"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x937c131cda1c2ced4c87a396a300d205e9107ff0",
+      "name": "Squidgame",
+      "symbol": "$SQUID",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x937c131cda1c2ced4c87a396a300d205e9107ff0.png?key=7153e6"
     },
     {
       "chainId": 57073,
