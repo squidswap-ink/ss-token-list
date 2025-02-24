@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-24T13:58:52.543Z",
+  "timestamp": "2025-02-24T14:24:58.578Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -49,14 +49,6 @@
     },
     {
       "chainId": 57073,
-      "address": "0x232e0fef23dc0d6371ac2e59a6b7bfac2b971fe5",
-      "name": "Sonichu Boobshark Crystal Pepsi 69",
-      "symbol": "SHARK",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x232e0fef23dc0d6371ac2e59a6b7bfac2b971fe5.png?key=f57374"
-    },
-    {
-      "chainId": 57073,
       "address": "0x44c497597aa32f5f2b7edb91522f321f04f03cd7",
       "name": "GMINKY",
       "symbol": "GMINKY",
@@ -65,27 +57,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0x481fa3b8ec82f38fd556ce30670b7960b9e11da3",
-      "name": "Release The Kraken",
-      "symbol": "RTK",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x481fa3b8ec82f38fd556ce30670b7960b9e11da3.png?key=ccb8a6"
-    },
-    {
-      "chainId": 57073,
       "address": "0x537d8aa34010b552be087b1627e8dac4ee729bbe",
       "name": "Squidward",
       "symbol": "SQUID",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x537d8aa34010b552be087b1627e8dac4ee729bbe.png?key=4c4296"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x5c1970b80e951236aa3293e62db483c6ce747741",
-      "name": "SirSquidward",
-      "symbol": "SQUIDDY",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x5c1970b80e951236aa3293e62db483c6ce747741.png?key=40b844"
     },
     {
       "chainId": 57073,
