@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-25T18:49:51.204Z",
+  "timestamp": "2025-02-25T19:06:31.604Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -41,6 +41,14 @@
     },
     {
       "chainId": 57073,
+      "address": "0x232e0fef23dc0d6371ac2e59a6b7bfac2b971fe5",
+      "name": "Sonichu Boobshark Crystal Pepsi 69",
+      "symbol": "SHARK",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x232e0fef23dc0d6371ac2e59a6b7bfac2b971fe5.png?key=f57374"
+    },
+    {
+      "chainId": 57073,
       "address": "0x2a1bce657f919ac3f9ab50b2584cfc77563a02ec",
       "name": "Andru Kollor",
       "symbol": "AK47",
@@ -65,6 +73,14 @@
     },
     {
       "chainId": 57073,
+      "address": "0x480c5bc6937cd998b09bc7b2cfbbf00fd123d322",
+      "name": "SPLAT",
+      "symbol": "SPLAT",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x480c5bc6937cd998b09bc7b2cfbbf00fd123d322.png?key=7e4b5b"
+    },
+    {
+      "chainId": 57073,
       "address": "0x4e7942a72dcfcc72fa0872068b0dba3921c1bb8a",
       "name": "SuperChad",
       "symbol": "CHAD",
@@ -86,6 +102,14 @@
       "symbol": "IKA",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x82ae03bbe6ec576bbd7496cbd67917cc21af097c.png?key=c21a6a"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x8e0f9350e294f49f8016ee250ff60448598cb8a1",
+      "name": "Gamercoin",
+      "symbol": "GAMER",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x8e0f9350e294f49f8016ee250ff60448598cb8a1.png?key=e1641e"
     },
     {
       "chainId": 57073,
@@ -129,6 +153,14 @@
     },
     {
       "chainId": 57073,
+      "address": "0xd3859f8c9a21d602ea8d414ab0b4279653feaad4",
+      "name": "Squidfart Coin",
+      "symbol": "SQUART",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd3859f8c9a21d602ea8d414ab0b4279653feaad4.png?key=3edadd"
+    },
+    {
+      "chainId": 57073,
       "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
       "name": "Purple",
       "symbol": "PURPLE",
@@ -142,6 +174,22 @@
       "symbol": "BEANS",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd6b04af9598162aad079c0e1c8bd1eb11cc5c6c8.png?key=1a79e0"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xe169c0cad1f9e5884c30db1976a39ebc40f8865f",
+      "name": "We are going to make Ink ",
+      "symbol": "WAGMI",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xe169c0cad1f9e5884c30db1976a39ebc40f8865f.png?key=1ebaa9"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xf153abf7c43752bd16035e529427336670aa7d2a",
+      "name": "inkwaifu",
+      "symbol": "waifu",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xf153abf7c43752bd16035e529427336670aa7d2a.png?key=c2c35d"
     }
   ],
   "keywords": [
