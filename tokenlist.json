@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-26T15:24:20.822Z",
+  "timestamp": "2025-02-26T15:41:30.272Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -54,6 +54,14 @@
       "symbol": "AK47",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x2a1bce657f919ac3f9ab50b2584cfc77563a02ec.png?key=5687c8"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x3ab58c1324dcfe459074fec4076e7f3d3b94e893",
+      "name": "Inky",
+      "symbol": "INKY",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x3ab58c1324dcfe459074fec4076e7f3d3b94e893.png?key=909650"
     },
     {
       "chainId": 57073,
