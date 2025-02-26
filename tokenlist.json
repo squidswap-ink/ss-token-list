@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-26T18:56:27.663Z",
+  "timestamp": "2025-02-26T19:17:19.169Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -73,14 +73,6 @@
     },
     {
       "chainId": 57073,
-      "address": "0x8e0f9350e294f49f8016ee250ff60448598cb8a1",
-      "name": "Gamercoin",
-      "symbol": "GAMER",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x8e0f9350e294f49f8016ee250ff60448598cb8a1.png?key=e1641e"
-    },
-    {
-      "chainId": 57073,
       "address": "0x937c131cda1c2ced4c87a396a300d205e9107ff0",
       "name": "Squidgame",
       "symbol": "$SQUID",
@@ -142,14 +134,6 @@
       "symbol": "BEANS",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd6b04af9598162aad079c0e1c8bd1eb11cc5c6c8.png?key=1a79e0"
-    },
-    {
-      "chainId": 57073,
-      "address": "0xe169c0cad1f9e5884c30db1976a39ebc40f8865f",
-      "name": "We are going to make Ink ",
-      "symbol": "WAGMI",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xe169c0cad1f9e5884c30db1976a39ebc40f8865f.png?key=1ebaa9"
     },
     {
       "chainId": 57073,
