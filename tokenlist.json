@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-26T16:58:27.237Z",
+  "timestamp": "2025-02-26T17:21:49.122Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -78,14 +78,6 @@
       "symbol": "SPLAT",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x480c5bc6937cd998b09bc7b2cfbbf00fd123d322.png?key=7e4b5b"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x4e7942a72dcfcc72fa0872068b0dba3921c1bb8a",
-      "name": "SuperChad",
-      "symbol": "CHAD",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x4e7942a72dcfcc72fa0872068b0dba3921c1bb8a.png?key=52da38"
     },
     {
       "chainId": 57073,
