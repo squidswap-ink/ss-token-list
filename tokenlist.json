@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-02-26T21:46:21.553Z",
+  "timestamp": "2025-02-26T21:57:22.880Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -105,14 +105,6 @@
     },
     {
       "chainId": 57073,
-      "address": "0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d",
-      "name": "OctoPepe",
-      "symbol": "OCTOPEPE",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d.png?key=86468d"
-    },
-    {
-      "chainId": 57073,
       "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
       "name": "Purple",
       "symbol": "PURPLE",
@@ -126,14 +118,6 @@
       "symbol": "BEANS",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd6b04af9598162aad079c0e1c8bd1eb11cc5c6c8.png?key=1a79e0"
-    },
-    {
-      "chainId": 57073,
-      "address": "0xf153abf7c43752bd16035e529427336670aa7d2a",
-      "name": "inkwaifu",
-      "symbol": "waifu",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xf153abf7c43752bd16035e529427336670aa7d2a.png?key=c2c35d"
     }
   ],
   "keywords": [
