@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-03-02T04:56:29.191Z",
+  "timestamp": "2025-03-02T05:21:58.773Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -41,11 +41,27 @@
     },
     {
       "chainId": 57073,
+      "address": "0x3daed354c307d9bd4f6fa00fbcca4188b2c8b688",
+      "name": "Squidjak",
+      "symbol": "SQJAK",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x3daed354c307d9bd4f6fa00fbcca4188b2c8b688.png?key=8e4d98"
+    },
+    {
+      "chainId": 57073,
       "address": "0x44c497597aa32f5f2b7edb91522f321f04f03cd7",
       "name": "GMINKY",
       "symbol": "GMINKY",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x44c497597aa32f5f2b7edb91522f321f04f03cd7.png?key=fe0c78"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x67314f6a5732a308408969269618f38132777a45",
+      "name": "Squi",
+      "symbol": "SQUI",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x67314f6a5732a308408969269618f38132777a45.png?key=a69d9f"
     },
     {
       "chainId": 57073,
@@ -78,6 +94,14 @@
       "symbol": "KRILL",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xcb95a3840c8ea5f0d4e78b67ec897df84d17c5e6.png?key=0ad5f5"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d",
+      "name": "OctoPepe",
+      "symbol": "OCTOPEPE",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d.png?key=86468d"
     },
     {
       "chainId": 57073,
