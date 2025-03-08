@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-03-08T05:58:31.223Z",
+  "timestamp": "2025-03-08T06:26:17.700Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -49,14 +49,6 @@
     },
     {
       "chainId": 57073,
-      "address": "0x4e7942a72dcfcc72fa0872068b0dba3921c1bb8a",
-      "name": "SuperChad",
-      "symbol": "CHAD",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x4e7942a72dcfcc72fa0872068b0dba3921c1bb8a.png?key=52da38"
-    },
-    {
-      "chainId": 57073,
       "address": "0x67314f6a5732a308408969269618f38132777a45",
       "name": "Squi",
       "symbol": "SQUI",
@@ -94,14 +86,6 @@
       "symbol": "KRILL",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xcb95a3840c8ea5f0d4e78b67ec897df84d17c5e6.png?key=0ad5f5"
-    },
-    {
-      "chainId": 57073,
-      "address": "0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d",
-      "name": "OctoPepe",
-      "symbol": "OCTOPEPE",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d.png?key=86468d"
     },
     {
       "chainId": 57073,
