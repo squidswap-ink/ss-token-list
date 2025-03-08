@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-03-08T14:37:20.826Z",
+  "timestamp": "2025-03-08T14:48:27.373Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -38,6 +38,14 @@
       "symbol": "DBI",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x21c97338b1ea81a0b49930483c70d5b79abcf041.png?key=3b6115"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x3ab58c1324dcfe459074fec4076e7f3d3b94e893",
+      "name": "Inky",
+      "symbol": "INKY",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x3ab58c1324dcfe459074fec4076e7f3d3b94e893.png?key=909650"
     },
     {
       "chainId": 57073,
@@ -102,6 +110,14 @@
       "symbol": "OCTOPEPE",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d.png?key=86468d"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xd3859f8c9a21d602ea8d414ab0b4279653feaad4",
+      "name": "Squidfart Coin",
+      "symbol": "SQUART",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd3859f8c9a21d602ea8d414ab0b4279653feaad4.png?key=3edadd"
     },
     {
       "chainId": 57073,
