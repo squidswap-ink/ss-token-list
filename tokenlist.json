@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-03-09T14:29:36.468Z",
+  "timestamp": "2025-03-09T14:40:51.743Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -49,6 +49,14 @@
     },
     {
       "chainId": 57073,
+      "address": "0x3daed354c307d9bd4f6fa00fbcca4188b2c8b688",
+      "name": "Squidjak",
+      "symbol": "SQJAK",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x3daed354c307d9bd4f6fa00fbcca4188b2c8b688.png?key=8e4d98"
+    },
+    {
+      "chainId": 57073,
       "address": "0x44c497597aa32f5f2b7edb91522f321f04f03cd7",
       "name": "GMINKY",
       "symbol": "GMINKY",
@@ -62,6 +70,14 @@
       "symbol": "SPLAT",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x480c5bc6937cd998b09bc7b2cfbbf00fd123d322.png?key=7e4b5b"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x481fa3b8ec82f38fd556ce30670b7960b9e11da3",
+      "name": "Release The Kraken",
+      "symbol": "RTK",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x481fa3b8ec82f38fd556ce30670b7960b9e11da3.png?key=ccb8a6"
     },
     {
       "chainId": 57073,
