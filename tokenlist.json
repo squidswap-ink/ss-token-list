@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-03-09T14:40:51.743Z",
+  "timestamp": "2025-03-09T14:56:07.738Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -97,6 +97,14 @@
     },
     {
       "chainId": 57073,
+      "address": "0x937c131cda1c2ced4c87a396a300d205e9107ff0",
+      "name": "Squidgame",
+      "symbol": "$SQUID",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x937c131cda1c2ced4c87a396a300d205e9107ff0.png?key=7153e6"
+    },
+    {
+      "chainId": 57073,
       "address": "0xb816f5951a2e568d6eae351443c789c4f9fb55a7",
       "name": "Archival Ink",
       "symbol": "Arch",
@@ -121,11 +129,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0xd3859f8c9a21d602ea8d414ab0b4279653feaad4",
-      "name": "Squidfart Coin",
-      "symbol": "SQUART",
+      "address": "0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d",
+      "name": "OctoPepe",
+      "symbol": "OCTOPEPE",
       "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd3859f8c9a21d602ea8d414ab0b4279653feaad4.png?key=3edadd"
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d.png?key=86468d"
     },
     {
       "chainId": 57073,
