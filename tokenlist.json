@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-03-10T14:39:16.715Z",
+  "timestamp": "2025-03-10T14:50:24.312Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -65,14 +65,6 @@
     },
     {
       "chainId": 57073,
-      "address": "0x44c497597aa32f5f2b7edb91522f321f04f03cd7",
-      "name": "GMINKY",
-      "symbol": "GMINKY",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x44c497597aa32f5f2b7edb91522f321f04f03cd7.png?key=fe0c78"
-    },
-    {
-      "chainId": 57073,
       "address": "0x480c5bc6937cd998b09bc7b2cfbbf00fd123d322",
       "name": "SPLAT",
       "symbol": "SPLAT",
@@ -118,14 +110,6 @@
       "symbol": "KRILL",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xcb95a3840c8ea5f0d4e78b67ec897df84d17c5e6.png?key=0ad5f5"
-    },
-    {
-      "chainId": 57073,
-      "address": "0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d",
-      "name": "OctoPepe",
-      "symbol": "OCTOPEPE",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d.png?key=86468d"
     },
     {
       "chainId": 57073,
