@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-03-13T18:33:23.717Z",
+  "timestamp": "2025-03-13T18:50:40.779Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -62,6 +62,14 @@
       "symbol": "IKA",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x82ae03bbe6ec576bbd7496cbd67917cc21af097c.png?key=c21a6a"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xb816f5951a2e568d6eae351443c789c4f9fb55a7",
+      "name": "Archival Ink",
+      "symbol": "Arch",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xb816f5951a2e568d6eae351443c789c4f9fb55a7.png?key=31a0df"
     },
     {
       "chainId": 57073,
