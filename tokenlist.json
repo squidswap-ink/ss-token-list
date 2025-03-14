@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-03-14T01:53:35.374Z",
+  "timestamp": "2025-03-14T02:54:54.231Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -86,14 +86,6 @@
       "symbol": "OCTOPEPE",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d.png?key=86468d"
-    },
-    {
-      "chainId": 57073,
-      "address": "0xd3859f8c9a21d602ea8d414ab0b4279653feaad4",
-      "name": "Squidfart Coin",
-      "symbol": "SQUART",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd3859f8c9a21d602ea8d414ab0b4279653feaad4.png?key=3edadd"
     },
     {
       "chainId": 57073,
