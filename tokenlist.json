@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-03-16T06:47:36.847Z",
+  "timestamp": "2025-03-16T06:58:35.006Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -38,6 +38,14 @@
       "symbol": "DBI",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x21c97338b1ea81a0b49930483c70d5b79abcf041.png?key=3b6115"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x44c497597aa32f5f2b7edb91522f321f04f03cd7",
+      "name": "GMINKY",
+      "symbol": "GMINKY",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x44c497597aa32f5f2b7edb91522f321f04f03cd7.png?key=fe0c78"
     },
     {
       "chainId": 57073,
