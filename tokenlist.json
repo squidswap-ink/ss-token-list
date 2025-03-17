@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-03-17T11:40:56.927Z",
+  "timestamp": "2025-03-17T11:56:10.692Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -49,6 +49,14 @@
     },
     {
       "chainId": 57073,
+      "address": "0x67314f6a5732a308408969269618f38132777a45",
+      "name": "Squi",
+      "symbol": "SQUI",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x67314f6a5732a308408969269618f38132777a45.png?key=a69d9f"
+    },
+    {
+      "chainId": 57073,
       "address": "0xb816f5951a2e568d6eae351443c789c4f9fb55a7",
       "name": "Archival Ink",
       "symbol": "Arch",
@@ -62,6 +70,14 @@
       "symbol": "SQUIDS",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xbf0cafcbaaf0be8221ae8d630500984edc908861.png?key=7a0af7"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xcb95a3840c8ea5f0d4e78b67ec897df84d17c5e6",
+      "name": "KRILL",
+      "symbol": "KRILL",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xcb95a3840c8ea5f0d4e78b67ec897df84d17c5e6.png?key=0ad5f5"
     },
     {
       "chainId": 57073,
