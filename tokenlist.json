@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-03-17T09:22:25.691Z",
+  "timestamp": "2025-03-17T09:40:38.628Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -41,14 +41,6 @@
     },
     {
       "chainId": 57073,
-      "address": "0x2a1bce657f919ac3f9ab50b2584cfc77563a02ec",
-      "name": "Andru Kollor",
-      "symbol": "AK47",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x2a1bce657f919ac3f9ab50b2584cfc77563a02ec.png?key=5687c8"
-    },
-    {
-      "chainId": 57073,
       "address": "0x44c497597aa32f5f2b7edb91522f321f04f03cd7",
       "name": "GMINKY",
       "symbol": "GMINKY",
@@ -70,14 +62,6 @@
       "symbol": "SQUIDS",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xbf0cafcbaaf0be8221ae8d630500984edc908861.png?key=7a0af7"
-    },
-    {
-      "chainId": 57073,
-      "address": "0xcb95a3840c8ea5f0d4e78b67ec897df84d17c5e6",
-      "name": "KRILL",
-      "symbol": "KRILL",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xcb95a3840c8ea5f0d4e78b67ec897df84d17c5e6.png?key=0ad5f5"
     },
     {
       "chainId": 57073,
