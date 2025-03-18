@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-03-18T18:34:31.615Z",
+  "timestamp": "2025-03-18T18:50:48.393Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -22,14 +22,6 @@
       "symbol": "SHROOMY",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111.png?key=a238eb"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x21c97338b1ea81a0b49930483c70d5b79abcf041",
-      "name": "DickButt on INK",
-      "symbol": "DBI",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x21c97338b1ea81a0b49930483c70d5b79abcf041.png?key=3b6115"
     },
     {
       "chainId": 57073,
@@ -62,14 +54,6 @@
       "symbol": "SQUI",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x67314f6a5732a308408969269618f38132777a45.png?key=a69d9f"
-    },
-    {
-      "chainId": 57073,
-      "address": "0xb816f5951a2e568d6eae351443c789c4f9fb55a7",
-      "name": "Archival Ink",
-      "symbol": "Arch",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xb816f5951a2e568d6eae351443c789c4f9fb55a7.png?key=31a0df"
     },
     {
       "chainId": 57073,
