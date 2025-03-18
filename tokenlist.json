@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-03-18T19:15:38.538Z",
+  "timestamp": "2025-03-18T19:26:55.994Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -54,6 +54,14 @@
       "symbol": "SQUI",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x67314f6a5732a308408969269618f38132777a45.png?key=a69d9f"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x82ae03bbe6ec576bbd7496cbd67917cc21af097c",
+      "name": "Ika",
+      "symbol": "IKA",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x82ae03bbe6ec576bbd7496cbd67917cc21af097c.png?key=c21a6a"
     },
     {
       "chainId": 57073,
