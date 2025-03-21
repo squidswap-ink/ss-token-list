@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-03-21T11:56:21.930Z",
+  "timestamp": "2025-03-21T12:43:01.059Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -54,6 +54,14 @@
       "symbol": "KRILL",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xcb95a3840c8ea5f0d4e78b67ec897df84d17c5e6.png?key=0ad5f5"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
+      "name": "Purple",
+      "symbol": "PURPLE",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd642b49d10cc6e1bc1c6945725667c35e0875f22.png?key=2c74f7"
     },
     {
       "chainId": 57073,
