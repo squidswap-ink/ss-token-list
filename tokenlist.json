@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-03-23T20:56:09.427Z",
+  "timestamp": "2025-03-23T21:18:26.496Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -41,11 +41,27 @@
     },
     {
       "chainId": 57073,
+      "address": "0x82ae03bbe6ec576bbd7496cbd67917cc21af097c",
+      "name": "Ika",
+      "symbol": "IKA",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x82ae03bbe6ec576bbd7496cbd67917cc21af097c.png?key=c21a6a"
+    },
+    {
+      "chainId": 57073,
       "address": "0xbf0cafcbaaf0be8221ae8d630500984edc908861",
       "name": "SquidSwap",
       "symbol": "SQUIDS",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xbf0cafcbaaf0be8221ae8d630500984edc908861.png?key=7a0af7"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xcb95a3840c8ea5f0d4e78b67ec897df84d17c5e6",
+      "name": "KRILL",
+      "symbol": "KRILL",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xcb95a3840c8ea5f0d4e78b67ec897df84d17c5e6.png?key=0ad5f5"
     },
     {
       "chainId": 57073,
