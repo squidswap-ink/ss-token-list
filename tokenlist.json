@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-03-24T12:45:35.559Z",
+  "timestamp": "2025-03-24T13:17:06.802Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -30,14 +30,6 @@
       "symbol": "GMINKY",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x44c497597aa32f5f2b7edb91522f321f04f03cd7.png?key=fe0c78"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x4e7942a72dcfcc72fa0872068b0dba3921c1bb8a",
-      "name": "SuperChad",
-      "symbol": "CHAD",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x4e7942a72dcfcc72fa0872068b0dba3921c1bb8a.png?key=52da38"
     },
     {
       "chainId": 57073,
