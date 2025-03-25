@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-03-25T20:40:35.132Z",
+  "timestamp": "2025-03-25T20:56:13.333Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -38,6 +38,14 @@
       "symbol": "SQUIDS",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xbf0cafcbaaf0be8221ae8d630500984edc908861.png?key=7a0af7"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d",
+      "name": "OctoPepe",
+      "symbol": "OCTOPEPE",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd0eca4bd623bad9a3872d31b6ac7065e4fa9344d.png?key=86468d"
     },
     {
       "chainId": 57073,
