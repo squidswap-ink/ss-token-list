@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-03-27T19:59:55.893Z",
+  "timestamp": "2025-03-27T20:27:05.010Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -30,14 +30,6 @@
       "symbol": "SPLAT",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x480c5bc6937cd998b09bc7b2cfbbf00fd123d322.png?key=7e4b5b"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x82ae03bbe6ec576bbd7496cbd67917cc21af097c",
-      "name": "Ika",
-      "symbol": "IKA",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x82ae03bbe6ec576bbd7496cbd67917cc21af097c.png?key=c21a6a"
     },
     {
       "chainId": 57073,
