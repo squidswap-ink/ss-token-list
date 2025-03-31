@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-03-31T17:42:06.207Z",
+  "timestamp": "2025-03-31T17:56:24.471Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -30,14 +30,6 @@
       "symbol": "AK47",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x2a1bce657f919ac3f9ab50b2584cfc77563a02ec.png?key=5687c8"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x44c497597aa32f5f2b7edb91522f321f04f03cd7",
-      "name": "GMINKY",
-      "symbol": "GMINKY",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x44c497597aa32f5f2b7edb91522f321f04f03cd7.png?key=fe0c78"
     },
     {
       "chainId": 57073,
