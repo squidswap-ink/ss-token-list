@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-04-01T23:24:00.246Z",
+  "timestamp": "2025-04-01T23:38:40.828Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -22,14 +22,6 @@
       "symbol": "SHROOMY",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111.png?key=a238eb"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5",
-      "name": "Cat Call Agent",
-      "symbol": "CAT",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5.png?key=fa92d6"
     },
     {
       "chainId": 57073,
