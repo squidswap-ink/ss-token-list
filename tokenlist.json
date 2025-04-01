@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-04-01T18:51:26.777Z",
+  "timestamp": "2025-04-01T19:16:11.445Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -70,6 +70,14 @@
       "symbol": "PURPLE",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd642b49d10cc6e1bc1c6945725667c35e0875f22.png?key=2c74f7"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xd6b04af9598162aad079c0e1c8bd1eb11cc5c6c8",
+      "name": "BEANS",
+      "symbol": "BEANS",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0xd6b04af9598162aad079c0e1c8bd1eb11cc5c6c8.png?key=1a79e0"
     }
   ],
   "keywords": [
