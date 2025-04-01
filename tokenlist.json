@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-04-01T07:25:03.043Z",
+  "timestamp": "2025-04-01T07:39:15.188Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -46,6 +46,14 @@
       "symbol": "GMINKY",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x44c497597aa32f5f2b7edb91522f321f04f03cd7.png?key=fe0c78"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x937c131cda1c2ced4c87a396a300d205e9107ff0",
+      "name": "Squidgame",
+      "symbol": "$SQUID",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x937c131cda1c2ced4c87a396a300d205e9107ff0.png?key=7153e6"
     },
     {
       "chainId": 57073,
