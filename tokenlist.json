@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-04-04T02:54:02.871Z",
+  "timestamp": "2025-04-04T03:32:24.610Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -38,6 +38,14 @@
       "symbol": "AK47",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x2a1bce657f919ac3f9ab50b2584cfc77563a02ec.png?key=5687c8"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x67314f6a5732a308408969269618f38132777a45",
+      "name": "Squi",
+      "symbol": "SQUI",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x67314f6a5732a308408969269618f38132777a45.png?key=a69d9f"
     },
     {
       "chainId": 57073,
