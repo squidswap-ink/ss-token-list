@@ -1,6 +1,6 @@
 {
   "name": "SquidSwap Token List",
-  "timestamp": "2025-04-04T20:56:13.420Z",
+  "timestamp": "2025-04-04T21:20:11.483Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -30,14 +30,6 @@
       "symbol": "CAT",
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5.png?key=fa92d6"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x2a1bce657f919ac3f9ab50b2584cfc77563a02ec",
-      "name": "Andru Kollor",
-      "symbol": "AK47",
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x2a1bce657f919ac3f9ab50b2584cfc77563a02ec.png?key=5687c8"
     },
     {
       "chainId": 57073,
